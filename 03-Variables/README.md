@@ -19,9 +19,12 @@ var quantity int = 10
 var username string = "John"
 var isPermission bool = true
 var costPerMsg float32 = 2.89
+```
 
 ## ✍️ Declaring Variables in the Easy Way (Using := Short Assignment Operator)
 
+```go
 quantity := 10
 username := "John"
 isPermission := true
+```
